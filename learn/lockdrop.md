@@ -66,7 +66,7 @@ Users have the option to choose the lockdrop duration from the following 4 optio
 The IssueRatio will be defined as follows:
 
 * $$Locked_{token}$$ is the number of locked tokens for the lockdrop
-* $$DolalrRate_{token}$$ is the value for 1 token in Dollars
+* $$DollarRate_{token}$$ is the value for 1 token in Dollars
 * $$LockBonus_{days}$$ is the amount of bonus the user will receive according to the locked days
 
 $$IssueRatio = Locked_{token} \times DollarRate_{token}\times LockBonus_{days} (token \in \{ETH\})$$
